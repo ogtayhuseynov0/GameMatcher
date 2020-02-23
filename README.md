@@ -1,1 +1,2 @@
 # GameMatcher
+Software Engineering project
