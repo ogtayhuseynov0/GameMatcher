@@ -1,2 +1,2 @@
 # GameMatcher
-Software Engineering project
+Software Engineering class project
